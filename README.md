@@ -15,10 +15,10 @@
 ##
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Davzinn&show_icons=true&theme=dark&rank_icon=github" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davzinn&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a>
 </div>
