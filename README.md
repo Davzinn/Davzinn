@@ -16,7 +16,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <a>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Davzinn&show_icons=true&theme=dark&rank_icon=github" />
+    <img ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Davzinn=anuraghazra&show_icons=true&theme=transparent) />
   </a>
   <a>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davzinn&layout=compact&langs_count=8&card_width=320&theme=dark" />
